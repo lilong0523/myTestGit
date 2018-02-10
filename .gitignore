@@ -1,3 +1,4 @@
 testGitTests/
 testGit.xcodeproj/
+*.xcodeproj
 testGitUITests/
