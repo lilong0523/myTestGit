@@ -23,9 +23,7 @@
     NSLog(@"反反复复付付");
     NSLog(@"主分支修改");
     NSLog(@"分支测试");
-    NSLog(@"分支测试");
-    NSLog(@"分支测试");
-    NSLog(@"分支测试");
+    
 
     
     return YES;
