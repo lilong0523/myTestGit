@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
 
     NSLog(@"夜夜夜夜");
-
+NSLog(@"反反复复付付");
     return YES;
 }
 
